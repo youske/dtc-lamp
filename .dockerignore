@@ -1,0 +1,11 @@
+.git
+
+tests/
+
+
+*.swp
+*.lock
+*.lck
+*.*~
+*~
+.tags
