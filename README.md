@@ -1,10 +1,13 @@
 datacontainer lamp
 ==================
 
-/var/source/app 
-/var/srouce/resource 
-/var/source/etc 
-/var/source/stub 
+# volumeの内訳
+想定のディレクトリ位置とする。
+
+/var/source/app　< アプリソースコード配置場所
+/var/srouce/resource < リソースデータの配置
+/var/source/etc
+/var/source/stub
 /var/datastore
 
 # build-arg options
